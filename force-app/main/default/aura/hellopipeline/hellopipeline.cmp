@@ -1,0 +1,3 @@
+<aura:component>
+    <div>Hello World, I want to test out Heroku Pipelines with this app.</div>
+</aura:component>	
